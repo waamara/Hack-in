@@ -5,7 +5,7 @@ import './index.css';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <p> uuuuuuuuuuuuuuuuuuuu</p>
+    <p> uuuuuuuuuu</p>
     <App />
   </StrictMode>
 );
